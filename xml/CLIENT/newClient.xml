@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<CLIENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <FIRST_NAME>Aleksei Loi</FIRST_NAME>
+  <MAIL>lexa@mail.ru</MAIL>
+  <PASWRD>lexa</PASWRD>
+</CLIENT>

@@ -1,0 +1,15 @@
+USE hotel
+
+DECLARE
+@clientId int = 29,
+@bill money
+
+EXEC CreateBillTable_sp  
+
+
+use tempdb
+
+SELECT * FROM ROOM
+SELECT * FROM CLIENTSERVICE
+SELECT * FROM ADDSERVISE
+SELECT * FROM RESERVATION
